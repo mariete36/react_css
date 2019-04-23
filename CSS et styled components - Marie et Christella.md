@@ -28,6 +28,8 @@ Vous pouvez aussi échanger la couleur dans votre petite palette en cliquant sur
 
 ![enter image description here](https://i.goopics.net/GQ4kD.png) **Sélection** : Grâce à cet outil, vous pouvez sélectionner une partie de votre image ou toute l'image avec les touches Ctrl + A. Pour désélectionner, appuyez la commande Ctrl + D.
 
+![enter image description here](https://i.goopics.net/wEJ5Z.png) **Lasso** : Idem que la sélection sauf que c'est à vous de dessiner la sélection, librement.
+
 
 ## Create files and folders
 
@@ -164,7 +166,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg4MzUyODIsNjQ0NjY2NjY5LC0xOT
-E5NjY1NjU2LDY4NjYyMDI4OCwtODE3ODc3ODgxLDQ1ODEyNzQw
-NCw1NzU4MjUwNzJdfQ==
+eyJoaXN0b3J5IjpbMjQyMTI4MjcwLDY0NDY2NjY2OSwtMTkxOT
+Y2NTY1Niw2ODY2MjAyODgsLTgxNzg3Nzg4MSw0NTgxMjc0MDQs
+NTc1ODI1MDcyXX0=
 -->

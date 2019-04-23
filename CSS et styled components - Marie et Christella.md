@@ -9,7 +9,8 @@ Après avoir cliqué sur "**créer**", on te met à disposition plusieurs taille
 ![enter image description here](https://image.noelshack.com/fichiers/2019/17/2/1556010532-menu-fichier.png)
 1er bloc : Sans titre-1 = Titre de ton fichier (que tu pourras modifier en faisant enregistrer sous)
 2e bloc : Largeur x Hauteur et à côté un petit menu avec les unités (Pixels, Pouces, Centimètres, Millimètres, Points, Picas) mais tu n'auras besoin que d'utiliser des pixels ou centimètres.
-3e bloc : Résolution par défa
+3e bloc : Résolution par défaut en **72 dpi** (72 pixels/pouce) ou en **300 dpi** si tu es en impression.
+4e bloc : **Couleur RVB** en défaut (Rouge-Vert-Bleu) ou en **CMJN** en impression +
 
 # Files
 
@@ -150,6 +151,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODE3NjQzNSw2ODY2MjAyODgsLTgxNz
-g3Nzg4MSw0NTgxMjc0MDQsNTc1ODI1MDcyXX0=
+eyJoaXN0b3J5IjpbLTE3MjU4NTYxNzEsNjg2NjIwMjg4LC04MT
+c4Nzc4ODEsNDU4MTI3NDA0LDU3NTgyNTA3Ml19
 -->

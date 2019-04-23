@@ -20,6 +20,8 @@ Je pense que je n'ai pas besoin d'expliquer !
 
 # Bases des outils
 
+![enter image description here](https://i.goopics.net/Jox8a.gif)
+**Curseur déplacement** : Retirer d'abord le cadenas dans la partie calque pour pouvoir déplacer l'image ou la modifier.
 
 
 ## Create files and folders
@@ -157,6 +159,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk2NjU2NTYsNjg2NjIwMjg4LC04MT
-c4Nzc4ODEsNDU4MTI3NDA0LDU3NTgyNTA3Ml19
+eyJoaXN0b3J5IjpbNjQ0NjY2NjY5LC0xOTE5NjY1NjU2LDY4Nj
+YyMDI4OCwtODE3ODc3ODgxLDQ1ODEyNzQwNCw1NzU4MjUwNzJd
+fQ==
 -->

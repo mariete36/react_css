@@ -1,7 +1,8 @@
 # Tuto Photoshop (pour les débutants)
 
 ## Les bases
-1. Créer un fichier
+1. **Créer un fichier**
+
 ![Découvrez](https://image.noelshack.com/fichiers/2019/17/2/1556010140-photoshop-1.gif)
 Après avoir cliqué sur "**créer**", on te met à disposition plusieurs tailles de fichier : **web** (Desktop, mobile en gros iPhone etc), **illustration** (carte postale etc), **impression** (taille A4, A3 etc).
 **Côté gauche**, on te propose plusieurs tailles mais tu peux aussi personnaliser la taille que tu souhaites dans le **côté droit** :
@@ -15,12 +16,12 @@ Après avoir cliqué sur "**créer**", on te met à disposition plusieurs taille
 Tu choisis le fond de ton fichier.
 *Options avancées : Pas besoin d'y toucher :)*
 
-2. Ouvrir un fichier
+2. **Ouvrir un fichier**
 Je pense que je n'ai pas besoin d'expliquer !
 
 # Bases des outils
 
-![enter image description here](https://i.goopics.net/Jox8a.gif)
+![Gif 1](https://i.goopics.net/Jox8a.gif)
 ![enter image description here](https://i.goopics.net/Vxk5d.gif)
 ![enter image description here](https://i.goopics.net/eP5Oj.png) **Curseur déplacement** : Retirer d'abord le cadenas dans la partie calque pour pouvoir déplacer l'image ou la modifier. L'outil déplacement sert aussi à agrandir/rétrécir l'image, faire une rotation etc. Cliquez sur le bouton valider en haut (gif 2) pour finir :)
 ![enter image description here](https://i.goopics.net/GQ4kn.png) **Palette de couleurs** : Il n'y a que 2 couleurs max. à choisir. Vous pouvez la personnaliser en cliquant 2 fois dessus ou en allant sur la nuance de couleurs située en haut à droite.![enter image description here](https://i.goopics.net/djAOa.png)
@@ -176,7 +177,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzNjg2OTYzLDY0NDY2NjY2OSwtMTkxOT
-Y2NTY1Niw2ODY2MjAyODgsLTgxNzg3Nzg4MSw0NTgxMjc0MDQs
-NTc1ODI1MDcyXX0=
+eyJoaXN0b3J5IjpbLTQ0MjU4MjQyMSw5MjM2ODY5NjMsNjQ0Nj
+Y2NjY5LC0xOTE5NjY1NjU2LDY4NjYyMDI4OCwtODE3ODc3ODgx
+LDQ1ODEyNzQwNCw1NzU4MjUwNzJdfQ==
 -->

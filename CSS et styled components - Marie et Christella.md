@@ -30,7 +30,7 @@ Vous pouvez aussi échanger la couleur dans votre petite palette en cliquant sur
 
 ![enter image description here](https://i.goopics.net/wEJ5Z.png) **Lasso** : Idem que la sélection sauf que c'est à vous de dessiner la sélection, librement.
 
-
+![enter image description here](https://i.goopics.net/djAO3.png)
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
@@ -166,7 +166,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyMTI4MjcwLDY0NDY2NjY2OSwtMTkxOT
+eyJoaXN0b3J5IjpbNzM1Mjk3MTA5LDY0NDY2NjY2OSwtMTkxOT
 Y2NTY1Niw2ODY2MjAyODgsLTgxNzg3Nzg4MSw0NTgxMjc0MDQs
 NTc1ODI1MDcyXX0=
 -->

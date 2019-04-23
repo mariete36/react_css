@@ -30,7 +30,8 @@ Vous pouvez aussi échanger la couleur dans votre petite palette en cliquant sur
 
 ![enter image description here](https://i.goopics.net/wEJ5Z.png) **Lasso** : Idem que la sélection sauf que c'est à vous de dessiner la sélection, librement.
 
-![enter image description here](https://i.goopics.net/djAO3.png)
+![enter image description here](https://i.goopics.net/djAO3.png) **Baguette Magique** : Permet de sélectionner une partie souhaitée (utilisée pour tout ce qui est détourage lorsque le fond est une couleur unie).
+![enter image description here](https://i.goopics.net/NZ7eG.png) **Recadrage** : Permet de recadrer votre im
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
@@ -166,7 +167,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1Mjk3MTA5LDY0NDY2NjY2OSwtMTkxOT
-Y2NTY1Niw2ODY2MjAyODgsLTgxNzg3Nzg4MSw0NTgxMjc0MDQs
-NTc1ODI1MDcyXX0=
+eyJoaXN0b3J5IjpbLTg0MDI5NDc0OCw2NDQ2NjY2NjksLTE5MT
+k2NjU2NTYsNjg2NjIwMjg4LC04MTc4Nzc4ODEsNDU4MTI3NDA0
+LDU3NTgyNTA3Ml19
 -->

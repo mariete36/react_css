@@ -2,7 +2,7 @@
 
 ## Les bases
 1. Créer un fichier
-
+![Découvrez](https://image.noelshack.com/fichiers/2019/17/2/1556010140-photoshop-1.gif)
 
 
 
@@ -146,6 +146,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzg3Nzg4MSw0NTgxMjc0MDQsNTc1OD
-I1MDcyXX0=
+eyJoaXN0b3J5IjpbNjE3MDg5MTU1LC04MTc4Nzc4ODEsNDU4MT
+I3NDA0LDU3NTgyNTA3Ml19
 -->

@@ -6,8 +6,9 @@
 Après avoir cliqué sur "**créer**", on te met à disposition plusieurs tailles de fichier : **web** (Desktop, mobile en gros iPhone etc), **illustration** (carte postale etc), **impression** (taille A4, A3 etc).
 **Côté gauche**, on te propose plusieurs tailles mais tu peux aussi personnaliser la taille que tu souhaites dans le **côté droit** :
 
-
-
+![enter image description here](https://image.noelshack.com/fichiers/2019/17/2/1556010532-menu-fichier.png)
+1er champ : Sans titre-1 = Titre de ton fichier (que tu pourras modifier en faisant enregistrer sous)
+2e champ : 1
 
 # Files
 
@@ -148,6 +149,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2NjIwMjg4LC04MTc4Nzc4ODEsNDU4MT
-I3NDA0LDU3NTgyNTA3Ml19
+eyJoaXN0b3J5IjpbMzE2MjQ4OTIzLDY4NjYyMDI4OCwtODE3OD
+c3ODgxLDQ1ODEyNzQwNCw1NzU4MjUwNzJdfQ==
 -->

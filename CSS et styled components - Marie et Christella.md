@@ -7,8 +7,9 @@ Après avoir cliqué sur "**créer**", on te met à disposition plusieurs taille
 **Côté gauche**, on te propose plusieurs tailles mais tu peux aussi personnaliser la taille que tu souhaites dans le **côté droit** :
 
 ![enter image description here](https://image.noelshack.com/fichiers/2019/17/2/1556010532-menu-fichier.png)
-1er champ : Sans titre-1 = Titre de ton fichier (que tu pourras modifier en faisant enregistrer sous)
-2e champ : 1
+1er bloc : Sans titre-1 = Titre de ton fichier (que tu pourras modifier en faisant enregistrer sous)
+2e bloc : Largeur x Hauteur et à côté un petit menu avec les unités (Pixels, Pouces, Centimètres, Millimètres, Points, Picas) mais tu n'auras besoin que d'utiliser des pixels ou centimètres.
+3e bloc : Résolution par défa
 
 # Files
 
@@ -149,6 +150,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2MjQ4OTIzLDY4NjYyMDI4OCwtODE3OD
-c3ODgxLDQ1ODEyNzQwNCw1NzU4MjUwNzJdfQ==
+eyJoaXN0b3J5IjpbMTQxODE3NjQzNSw2ODY2MjAyODgsLTgxNz
+g3Nzg4MSw0NTgxMjc0MDQsNTc1ODI1MDcyXX0=
 -->

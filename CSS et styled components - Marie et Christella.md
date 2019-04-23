@@ -38,6 +38,7 @@ Vous pouvez aussi échanger la couleur dans votre petite palette en cliquant sur
 ![enter image description here](https://i.goopics.net/ogerG.png) **Tampon** : Utilisé en retouche, permet de prendre une partie de l'image pour la remplacer ailleurs.
 ![enter image description here](https://i.goopics.net/8Jv47.png) **Gomme** : Indispensable comme le pinceau, permet de gommer les calques/images.
 ![enter image description here](https://i.goopics.net/0Rd9O.png) **Pot de peinture** : permet de remplir un calque d'une autre couleur (la couleur de la palette).
+![enter image description here](https://i.goopics.net/xERAQ.png) **Flou / Goutte d'eau** : permet de faire un effet de flou sur l'image 
 
 ## Create files and folders
 
@@ -174,7 +175,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU5MzYyNDMsNjQ0NjY2NjY5LC0xOT
-E5NjY1NjU2LDY4NjYyMDI4OCwtODE3ODc3ODgxLDQ1ODEyNzQw
-NCw1NzU4MjUwNzJdfQ==
+eyJoaXN0b3J5IjpbMTA2NTQ4NjIyNCw2NDQ2NjY2NjksLTE5MT
+k2NjU2NTYsNjg2NjIwMjg4LC04MTc4Nzc4ODEsNDU4MTI3NDA0
+LDU3NTgyNTA3Ml19
 -->

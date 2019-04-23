@@ -3,7 +3,9 @@
 ## Les bases
 1. Créer un fichier
 ![Découvrez](https://image.noelshack.com/fichiers/2019/17/2/1556010140-photoshop-1.gif)
-Après avoir cliqué sur "créer", on te met à disposition plusieurs tailles de fichier : web (Desktop, mobile en gros iPhone etc), illustration, impression (taille A4, A3 etc)
+Après avoir cliqué sur "**créer**", on te met à disposition plusieurs tailles de fichier : **web** (Desktop, mobile en gros iPhone etc), **illustration** (carte postale etc), **impression** (taille A4, A3 etc).
+**Côté gauche**, on te propose plusieurs tailles mais tu peux aussi personnaliser la taille que tu souhaites dans le **côté droit** :
+
 
 
 
@@ -146,6 +148,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTIzOTUzODAsLTgxNzg3Nzg4MSw0NT
-gxMjc0MDQsNTc1ODI1MDcyXX0=
+eyJoaXN0b3J5IjpbNjg2NjIwMjg4LC04MTc4Nzc4ODEsNDU4MT
+I3NDA0LDU3NTgyNTA3Ml19
 -->

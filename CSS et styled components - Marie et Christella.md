@@ -26,7 +26,9 @@ Je pense que je n'ai pas besoin d'expliquer !
 ![enter image description here](https://i.goopics.net/GQ4kn.png) **Palette de couleurs** : Il n'y a que 2 couleurs max. à choisir. Vous pouvez la personnaliser en cliquant 2 fois dessus ou en allant sur la nuance de couleurs située en haut à droite.![enter image description here](https://i.goopics.net/djAOa.png)
 Vous pouvez aussi échanger la couleur dans votre petite palette en cliquant sur la flèche (pour éviter de repartir sur la nuance de couleurs).
 
-![enter image description here](https://i.goopics.net/GQ4kD.png) **Sélection** : Grâce à cet outil, vous pouvez sélectionner une partie de votre image ou toute l'image 
+![enter image description here](https://i.goopics.net/GQ4kD.png) **Sélection** : Grâce à cet outil, vous pouvez sélectionner une partie de votre image ou toute l'image avec les touches Ctrl + A. Pour désélectionner, appuyez la commande Ctrl + D.
+
+
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
@@ -162,7 +164,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTcyNTUzNjYsNjQ0NjY2NjY5LC0xOT
+eyJoaXN0b3J5IjpbLTE3NTg4MzUyODIsNjQ0NjY2NjY5LC0xOT
 E5NjY1NjU2LDY4NjYyMDI4OCwtODE3ODc3ODgxLDQ1ODEyNzQw
 NCw1NzU4MjUwNzJdfQ==
 -->

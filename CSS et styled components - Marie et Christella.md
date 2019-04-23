@@ -1,9 +1,9 @@
-# CSS et styled components
-Source :
-https://www.styled-components.com/docs/basics
-https://putaindecode.io/fr/articles/js/react/styled-components/
+# Tuto Photoshop (pour les débutants)
 
-## A quoi sert le styled-components ?
+## Les bases
+1. Créer un fichier
+
+
 
 
 
@@ -146,5 +146,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4MTI3NDA0LDU3NTgyNTA3Ml19
+eyJoaXN0b3J5IjpbLTgxNzg3Nzg4MSw0NTgxMjc0MDQsNTc1OD
+I1MDcyXX0=
 -->

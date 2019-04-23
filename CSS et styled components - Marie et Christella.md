@@ -22,9 +22,8 @@ Je pense que je n'ai pas besoin d'expliquer !
 
 ![enter image description here](https://i.goopics.net/Jox8a.gif)
 ![enter image description here](https://i.goopics.net/Vxk5d.gif)
-**Curseur déplacement** : Retirer d'abord le cadenas dans la partie calque pour pouvoir déplacer l'image ou la modifier. L'outil déplacement sert aussi à agrandir/rétrécir l'image, faire une rotation etc. Cliquer sur le bouton valider en haut (gif 2) pour finir :)
-
-
+![enter image description here](https://i.goopics.net/eP5Oj.png) **Curseur déplacement** : Retirer d'abord le cadenas dans la partie calque pour pouvoir déplacer l'image ou la modifier. L'outil déplacement sert aussi à agrandir/rétrécir l'image, faire une rotation etc. Cliquez sur le bouton valider en haut (gif 2) pour finir :)
+![enter image description here](https://i.goopics.net/GQ4kn.png) **Palette de couleurs** : Il n'y a que 2 couleurs max
 
 ## Create files and folders
 
@@ -161,7 +160,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA2MDE3Niw2NDQ2NjY2NjksLTE5MT
-k2NjU2NTYsNjg2NjIwMjg4LC04MTc4Nzc4ODEsNDU4MTI3NDA0
-LDU3NTgyNTA3Ml19
+eyJoaXN0b3J5IjpbLTE4MzQwODAyMzMsNjQ0NjY2NjY5LC0xOT
+E5NjY1NjU2LDY4NjYyMDI4OCwtODE3ODc3ODgxLDQ1ODEyNzQw
+NCw1NzU4MjUwNzJdfQ==
 -->

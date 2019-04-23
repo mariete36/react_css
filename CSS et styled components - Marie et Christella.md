@@ -39,7 +39,8 @@ Vous pouvez aussi échanger la couleur dans votre petite palette en cliquant sur
 ![enter image description here](https://i.goopics.net/8Jv47.png) **Gomme** : Indispensable comme le pinceau, permet de gommer les calques/images.
 ![enter image description here](https://i.goopics.net/0Rd9O.png) **Pot de peinture** : permet de remplir un calque d'une autre couleur (la couleur de la palette).
 ![enter image description here](https://i.goopics.net/xERAQ.png) **Flou / Goutte d'eau** : permet de faire un effet de flou sur l'image 
-
+![enter image description here](https://i.goopics.net/ZOX5q.png) **Plume** : L'outil indispensable pour détourer une image.
+![enter image description here](https://i.goopics.net/Y0GRd.png) **Outil Texte** : permet d'ajouter du texte sur l'image avec un men
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
@@ -175,7 +176,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTQ4NjIyNCw2NDQ2NjY2NjksLTE5MT
-k2NjU2NTYsNjg2NjIwMjg4LC04MTc4Nzc4ODEsNDU4MTI3NDA0
-LDU3NTgyNTA3Ml19
+eyJoaXN0b3J5IjpbLTE1ODQ5NjU2NzAsNjQ0NjY2NjY5LC0xOT
+E5NjY1NjU2LDY4NjYyMDI4OCwtODE3ODc3ODgxLDQ1ODEyNzQw
+NCw1NzU4MjUwNzJdfQ==
 -->

@@ -8,16 +8,19 @@ Après avoir cliqué sur "**créer**", on te met à disposition plusieurs taille
 
 ![enter image description here](https://image.noelshack.com/fichiers/2019/17/2/1556010532-menu-fichier.png)
 **1er bloc** : Sans titre-1 => Titre de ton fichier (que tu pourras modifier en faisant enregistrer sous)
-**2e bloc** : Personnaliser la taille de ton fiLargeur x Hauteur et à côté un petit menu avec les unités (Pixels, Pouces, Centimètres, Millimètres, Points, Picas) mais tu n'auras besoin que d'utiliser des **pixels ou centimètres.**
+**2e bloc** : Personnaliser la taille de ton fichier => Largeur x Hauteur et à côté un petit menu avec les unités (Pixels, Pouces, Centimètres, Millimètres, Points, Picas) mais tu n'auras besoin que d'utiliser des **pixels ou centimètres.**
 **3e bloc** : Résolution par défaut en **72 dpi** (72 pixels/pouce) ou en **300 dpi** si tu es en impression.
 **4e bloc** : **Couleur RVB** par défaut (Rouge-Vert-Bleu) ou en **CMJN** en impression + 8 bits par défaut
 **5e bloc** : Contenu de l'arrière-plan (Blanc, Noir, Transparent, Personnalisé)
 Tu choisis le fond de ton fichier.
-Options avancées : Pas besoin d'y toucher :)
+*Options avancées : Pas besoin d'y toucher :)*
 
-# Files
+2. Ouvrir un fichier
+Je pense que je n'ai pas besoin d'expliquer !
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+# Bases des outils
+
+
 
 ## Create files and folders
 
@@ -154,6 +157,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTY1MDA4MCw2ODY2MjAyODgsLTgxNz
-g3Nzg4MSw0NTgxMjc0MDQsNTc1ODI1MDcyXX0=
+eyJoaXN0b3J5IjpbLTE5MTk2NjU2NTYsNjg2NjIwMjg4LC04MT
+c4Nzc4ODEsNDU4MTI3NDA0LDU3NTgyNTA3Ml19
 -->

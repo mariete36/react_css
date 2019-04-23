@@ -36,7 +36,9 @@ Vous pouvez aussi échanger la couleur dans votre petite palette en cliquant sur
 ![enter image description here](https://i.goopics.net/4A0wO.png) **Gommage magique** : Permet de gommer une imperfection sur l'image (d'où le mot magique)
 ![enter image description here](https://i.goopics.net/2q2eR.png) **Pinceau** : comme sur Paint, dessiner ce que vous voulez avec (plusieurs pinceaux sont disponibles), vous pouvez baisser la taille de la pointe du pinceau etc :)
 ![enter image description here](https://i.goopics.net/ogerG.png) **Tampon** : Utilisé en retouche, permet de prendre une partie de l'image pour la remplacer ailleurs.
-![enter image description here](https://i.goopics.net/8Jv47.png) **Gomme** : Indispensable comme le pinceau, permet de gommer le calq
+![enter image description here](https://i.goopics.net/8Jv47.png) **Gomme** : Indispensable comme le pinceau, permet de gommer les calques/images.
+![enter image description here](https://i.goopics.net/0Rd9O.png) **Pot de peinture** : permet de remplir un calque d'une autre couleur (la couleur de la palette).
+
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
@@ -172,7 +174,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4MDkxNDM0LDY0NDY2NjY2OSwtMTkxOT
-Y2NTY1Niw2ODY2MjAyODgsLTgxNzg3Nzg4MSw0NTgxMjc0MDQs
-NTc1ODI1MDcyXX0=
+eyJoaXN0b3J5IjpbLTEzMDU5MzYyNDMsNjQ0NjY2NjY5LC0xOT
+E5NjY1NjU2LDY4NjYyMDI4OCwtODE3ODc3ODgxLDQ1ODEyNzQw
+NCw1NzU4MjUwNzJdfQ==
 -->

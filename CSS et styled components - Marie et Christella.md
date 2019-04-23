@@ -23,8 +23,8 @@ Je pense que je n'ai pas besoin d'expliquer !
 ![enter image description here](https://i.goopics.net/Jox8a.gif)
 ![enter image description here](https://i.goopics.net/Vxk5d.gif)
 ![enter image description here](https://i.goopics.net/eP5Oj.png) **Curseur déplacement** : Retirer d'abord le cadenas dans la partie calque pour pouvoir déplacer l'image ou la modifier. L'outil déplacement sert aussi à agrandir/rétrécir l'image, faire une rotation etc. Cliquez sur le bouton valider en haut (gif 2) pour finir :)
-![enter image description here](https://i.goopics.net/GQ4kn.png) **Palette de couleurs** : Il n'y a que 2 couleurs max
-
+![enter image description here](https://i.goopics.net/GQ4kn.png) **Palette de couleurs** : Il n'y a que 2 couleurs max. à choisir. Vous pouvez la personnaliser en cliquant 2 fois dessus ou en allant sur la nuance de couleurs située en haut à droite.![enter image description here](https://i.goopics.net/djAOa.png)
+Vous pouvez aussi changer la couleur souhaitée dans votre petite palette en l
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
@@ -160,7 +160,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQwODAyMzMsNjQ0NjY2NjY5LC0xOT
+eyJoaXN0b3J5IjpbLTExMDA1OTkyMjYsNjQ0NjY2NjY5LC0xOT
 E5NjY1NjU2LDY4NjYyMDI4OCwtODE3ODc3ODgxLDQ1ODEyNzQw
 NCw1NzU4MjUwNzJdfQ==
 -->
